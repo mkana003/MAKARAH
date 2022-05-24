@@ -1,5 +1,6 @@
 # MAKARAH
-Doing Data Science using open world data from the World Data Bank
+Doing Data Science using open world data from the World Data Bank.
+
 by Andrea Hinojosa Albornoz, Manuel Kanahuati Ceballos and Andrés Robles Arce
 
 ## Data gathering
